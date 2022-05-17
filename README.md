@@ -56,7 +56,7 @@ You can support me with some SOL : BQu6Zjsq4ABkNaTggHtVcUtfUb622APqYMc3XC11HX2N
 
 5. Open CMD and go to directory
 
-    `cd /path/to/directory/Magiceden-bot`
+    `cd /path to directory/Magiceden-bot`
 
 6. Run the python file
 
