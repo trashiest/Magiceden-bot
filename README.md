@@ -30,7 +30,7 @@ You can support me with some SOL :  BQu6Zjsq4ABkNaTggHtVcUtfUb622APqYMc3XC11HX2N
 
 ## Tutorial
 
-1. Clone the repository /Download zip file
+1. Clone the repository / Download zip file
 
     `git clone https://github.com/marsCXXV/Magiceden-bot.git`
 
