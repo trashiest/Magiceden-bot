@@ -1,3 +1,4 @@
+from flask import Flask
 import os
 import json
 #import helper functions for magiceden
@@ -5,8 +6,11 @@ import magiceden
 #import helper functions for monkeylabs
 import monkelabs
 
+app = Flask(__yo__)
 
-
+@app.route("/")
+def index():
+    return "Congratulations, it's a web app!"
 
 
 def getConfig():
